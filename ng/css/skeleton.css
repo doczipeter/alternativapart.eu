@@ -349,8 +349,6 @@ hr {
 
 /* Custom –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-.container {
-  max-width: 1200px; } /* 800 */
 .header {
   margin-top: 6rem;
   text-align: center; }
