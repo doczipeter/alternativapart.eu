@@ -84,7 +84,7 @@
 .navbar {
   display: none; }
 
-/* Larger than phone */
+/* Larger than phone
 @media (min-width: 550px) {
   .header {
     margin-top: 18rem; }
@@ -107,7 +107,7 @@
     height: 100%;
     left: 0;
     max-height: none; }
-}
+} */
 
 /* Larger than tablet */
 @media (min-width: 750px) {
