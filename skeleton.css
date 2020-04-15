@@ -129,7 +129,7 @@ body {
   color: #222; 
   background-color: #FFCC00; }
 body.miez {
-  font-size: 3em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 2em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
   font-family: "Montserrat", sans-serif;
