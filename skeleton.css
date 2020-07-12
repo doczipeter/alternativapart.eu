@@ -140,7 +140,7 @@ body.podcast {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Major Mono Display", sans-serif;
-  color: #ffcc00;
+  color: #FFCC00;
   background-color: #000000; }
 
 
@@ -175,16 +175,16 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a:link {
   text-decoration: none;
-  color: #000000; }
+  color: #222; }
 a:visited {
   text-decoration: none;
-  color: #000000; }
+  color: #222; }
 a:hover {
   text-decoration: none;
-  color: #000000; }
+  color: #222; }
 a:active {
   text-decoration: none;
-  color: #000000; }
+  color: #222; }
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
